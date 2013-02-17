@@ -1,0 +1,15 @@
+target
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Eclipse generated files and directories #
+###########################################
+.classpath
+.project
+.settings
+bin/*
